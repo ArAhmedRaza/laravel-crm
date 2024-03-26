@@ -175,7 +175,7 @@ return [
         'orders',
         'invoices',
         'deliveries',
-        'purchase-orders',
+        //'purchase-orders',
         'teams',
     ],
 
